@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arvid Vik</h1>
 <h3 align="center">A passionate data analyst transitioning into cloud & data engineering</h3>
 
-- 🌱 I’m currently learning **AWS cloud engineering and IaC**
+- 🌱 I’m currently learning **AWS cloud and data engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Snarvid82](https://github.com/Snarvid82)
 
